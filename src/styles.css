@@ -49,13 +49,13 @@ h2{
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background-color: rgb(88, 0, 139);
+    background-color: rgba(111, 0, 175, 0.918);
     opacity: 0.8;
 }
 
 .clock #ampm {
-    bottom: 50%;
-    /* position: absolute; */
+    /* bottom: ; */
+    position: absolute;
     width: 60px;
     height: 30px;
     font-size: 20px;
